@@ -1,7 +1,7 @@
 <H3>ENTER YOUR NAME</H3> S V SHADHANSHREE
 <H3>ENTER YOUR REGISTER NO.</H3> 212223230202
-<H3>EX. NO.5</H3> 12.5.25
-<H3>DATE:</H3>
+<H3>EX. NO.5</H3> 
+<H3>DATE:</H3> 12.5.25
 <H1 ALIGN =CENTER>Implementation of XOR  using RBF</H1>
 <H3>Aim:</H3>
 To implement a XOR gate classification using Radial Basis Function  Neural Network.
